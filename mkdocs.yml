@@ -1,0 +1,17 @@
+site_name: OJT Session 5
+nav:
+    - Home: index.md
+    - SQL Demo : demo.md
+    - SQL Functions: function.md
+    - Fingerprint: Finger.md 
+    - Simple Injection : Simple.md
+    - Methodology: Method.md
+    - Exploitation: Exploitation.md
+    - Advanced Exploitation: Advanced.md
+    - Advanced++ Exploitation: Advanced2.md
+    - Exfiltration: exfil.md
+    - Vulnerable Code: Vulnerable.md
+    - Detection: Detection.md
+    - References: ref.md
+    
+theme: readthedocs
